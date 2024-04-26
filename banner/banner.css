@@ -1,0 +1,15 @@
+.banner{
+    width: 100%;
+    height: 4000px;
+    
+   
+}
+.foto{
+    width: 100%;
+    height: 200px;
+}
+.foto img{
+   width: 100%;
+   height: 300px;
+    object-fit: cover;
+}
